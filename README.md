@@ -6,5 +6,7 @@ RIght now , the text is hard coded into the programme .In order to change it , s
 in order the make a quick list to feed into text use this python script:
 
 text=input()
+
 m=[x for x in text.split()]
+
 print(m)
